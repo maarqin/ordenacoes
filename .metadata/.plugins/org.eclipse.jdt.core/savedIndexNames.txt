@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/thomaz/Documents/Faculdade/II Ano/LaboratorioDeComputacao/Ordenacoes/.metadata/.plugins/org.eclipse.jdt.core
